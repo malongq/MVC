@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MVC</string>
+
+    <string name="action_settings">设置</string>
+    <string name="text_stars">%d \nStars</string>
+    <string name="text_watchers">%d \nWatchers</string>
+    <string name="text_forks">%d \nForks</string>
+    <string name="error_loading_repos">出错啦</string>
+    <string name="text_empty_repos">该用户没有任何内容</string>
+    <string name="error_username_not_found">没有发现该用户</string>
+    <string name="hit_username">GitHub username</string>
+    <string name="default_info_message">在上面输入GitHub用户名 查看用户的仓库</string>
+    <string name="text_fork">这个仓库 is a fork</string>
+    <string name="text_language">Language: %s</string>
+    <string name="github_java">GitHub Java</string>
+</resources>
